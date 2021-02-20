@@ -24,25 +24,25 @@ const routes = {
     //   load: () => import(/* webpackChunkName: 'dataset' */ './dataset'),
     // },
     {
-       path: '/ontology',
-       load: () => import(/* webpackChunkName: 'ontology' */ './ontology'),
+      path: '/ontology',
+      load: () => import(/* webpackChunkName: 'ontology' */ './ontology'),
     },
 
     {
       path: '/resource/:id',
       load: () => import(/* webpackChunkName: 'resource' */ './resource'),
     },
-    
+
     {
       path: '/resource',
       load: () => import(/* webpackChunkName: 'resource' */ './resource'),
     },
     {
       path: '/tutorial',
-       load: () => import(/* webpackChunkName: 'tutorial' */ './tutorial'),
-     },
+      load: () => import(/* webpackChunkName: 'tutorial' */ './tutorial'),
+    },
 
-     {
+    {
       path: '/dataset/:datatype',
       load: () => import(/* webpackChunkName: 'dataset' */ './dataset'),
     },
@@ -58,6 +58,11 @@ const routes = {
     },
 
     {
+      path: '/link',
+      load: () => import(/* webpackChunkName: 'link' */ './link'),
+    },
+
+    {
       path: '/download',
       load: () => import(/* webpackChunkName: 'download' */ './download'),
     },
@@ -66,7 +71,6 @@ const routes = {
       path: '/about',
       load: () => import(/* webpackChunkName: 'about' */ './about'),
     },
-    
 
     // Wildcard routes, e.g. { path: '(.*)', ... } (must go last)
     {
@@ -80,7 +84,7 @@ const routes = {
     const route = await next();
 
     // Provide default values for title, description etc.
-    //route.title = `${route.title || 'Untitled Page'} - Richpedia`;
+    // route.title = `${route.title || 'Untitled Page'} - Richpedia`;
     route.title = `Richpedia`;
     route.description = route.description || '';
 

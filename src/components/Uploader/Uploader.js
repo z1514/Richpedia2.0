@@ -30,7 +30,6 @@ import LinearProgress from '@material-ui/core/LinearProgress';
 import { Record } from 'web-dev-server/build/lib/Applications/Registers/Record';
 
 import { TrafficRounded } from '@material-ui/icons';
-import se from './Uploader.css';
 
 const { TextArea } = Input;
 const { Dragger } = Upload;
@@ -67,7 +66,7 @@ class Uploader extends React.Component {
       'https://gw.alipayobjects.com/zos/antfincdn/aPkFc8Sj7n/method-draw-image.svg',
     uploading: false,
     showPreview: false,
-    rate: 1
+    rate: 1,
   };
 
   sendExample = name => {
@@ -127,7 +126,9 @@ class Uploader extends React.Component {
             <Col span={6}>
               <Card title="Ex 1" bordered>
                 <Image src="data/imgs/21717.jpg" fallback={this.state.fall} />
-                <p style={{fontSize:'5px'}}>Francis Condon in the early 20th Century</p>
+                <p style={{ fontSize: '5px' }}>
+                  Francis Condon in the early 20th Century
+                </p>
                 <Button
                   type="primary"
                   style={{ margin: '3px auto' }}
@@ -145,7 +146,10 @@ class Uploader extends React.Component {
             <Col span={6}>
               <Card title="Ex 2" bordered>
                 <Image src="data/imgs/39497.jpg" fallback={this.state.fall} />
-                <p style={{fontSize:'5px'}}>Bush (left) with Harry S. Truman (center) and James B. Conant (right)</p>
+                <p style={{ fontSize: '5px' }}>
+                  Bush (left) with Harry S. Truman (center) and James B. Conant
+                  (right)
+                </p>
                 <Button
                   type="primary"
                   style={{ margin: '3px auto' }}
@@ -163,7 +167,9 @@ class Uploader extends React.Component {
             <Col span={6}>
               <Card title="Ex 3" bordered>
                 <Image src="data/imgs/27515.jpg" fallback={this.state.fall} />
-                <p style={{fontSize:'5px'}}>George, Lord Bingham, at age 14</p>
+                <p style={{ fontSize: '5px' }}>
+                  George, Lord Bingham, at age 14
+                </p>
                 <Button
                   type="primary"
                   style={{ margin: '3px auto' }}
@@ -181,7 +187,10 @@ class Uploader extends React.Component {
             <Col span={6}>
               <Card title="Ex 4" bordered>
                 <Image src="data/imgs/15111.jpg" fallback={this.state.fall} />
-                <p style={{fontSize:'5px'}}>Chiezō Kataoka in the poster for Bloody Spear at Mount Fuji (1955).</p>
+                <p style={{ fontSize: '5px' }}>
+                  Chiezō Kataoka in the poster for Bloody Spear at Mount Fuji
+                  (1955).
+                </p>
                 <Button
                   type="primary"
                   style={{ margin: '3px auto' }}
@@ -201,7 +210,10 @@ class Uploader extends React.Component {
             <Col span={6}>
               <Card title="Ex 5" bordered>
                 <Image src="data/imgs/37662.jpg" fallback={this.state.fall} />
-                <p style={{fontSize:'5px'}}>Humphrey alongside Coretta Scott King and Civil Rights Leader Dr. Martin Luther King Jr.</p>
+                <p style={{ fontSize: '5px' }}>
+                  Humphrey alongside Coretta Scott King and Civil Rights Leader
+                  Dr. Martin Luther King Jr.
+                </p>
                 <Button
                   type="primary"
                   style={{ margin: '3px auto' }}
@@ -219,7 +231,10 @@ class Uploader extends React.Component {
             <Col span={6}>
               <Card title="Ex 6" bordered>
                 <Image src="data/imgs/31679.jpg" fallback={this.state.fall} />
-                <p style={{fontSize:'5px'}}>Berisha celebrating Brisbane's 2012 A-League Grand Final win in 2012.</p>
+                <p style={{ fontSize: '5px' }}>
+                  Berisha celebrating Brisbane's 2012 A-League Grand Final win
+                  in 2012.
+                </p>
                 <Button
                   type="primary"
                   style={{ margin: '3px auto' }}
@@ -237,7 +252,10 @@ class Uploader extends React.Component {
             <Col span={6}>
               <Card title="Ex 7" bordered>
                 <Image src="data/imgs/1028.jpg" fallback={this.state.fall} />
-                <p style={{fontSize:'5px'}}>Ocean's 11 with Buddy Lester, Joey Bishop, Sammy Davis, Jr., Frank Sinatra, and Dean Martin.</p>
+                <p style={{ fontSize: '5px' }}>
+                  Ocean's 11 with Buddy Lester, Joey Bishop, Sammy Davis, Jr.,
+                  Frank Sinatra, and Dean Martin.
+                </p>
                 <Button
                   type="primary"
                   style={{ margin: '3px auto' }}
@@ -255,7 +273,10 @@ class Uploader extends React.Component {
             <Col span={6}>
               <Card title="Ex 8" bordered>
                 <Image src="data/imgs/45262.jpg" fallback={this.state.fall} />
-                <p style={{fontSize:'5px'}}>Hitler in 1942 with his long-time lover, Eva Braun, whom he married on 29 April 1945</p>
+                <p style={{ fontSize: '5px' }}>
+                  Hitler in 1942 with his long-time lover, Eva Braun, whom he
+                  married on 29 April 1945
+                </p>
                 <Button
                   type="primary"
                   style={{ margin: '3px auto' }}
@@ -446,7 +467,7 @@ class Uploader extends React.Component {
   handleClear = () => {
     this.setState({
       filename: '',
-      value:""
+      value: '',
     });
     const up = document.getElementById('file');
     up.value = '';
@@ -532,7 +553,7 @@ class Uploader extends React.Component {
             color: '#77628c',
           }}
         >
-            Caption
+          Caption
         </h2>
         <TextArea
           id="textArea"
@@ -758,7 +779,6 @@ class Uploader extends React.Component {
         confidence,
       });
     }
-
 
     return (
       <Modal

@@ -26,6 +26,9 @@ export default function Navigation() {
       <a className={s.link} href="/dataset">
         Query
       </a>
+      <a className={s.link} href="/link">
+        Link
+      </a>
       <a className={s.link} href="/tutorial">
         Tutorial
       </a>
@@ -39,7 +42,11 @@ export default function Navigation() {
         About
       </a>
       <span className={s.spacer}> | </span>
-      <a className={cx(s.link, s.highlight)} href="https://github.com/Mr-shuo/Richpedia_Website" target="_blank">
+      <a
+        className={cx(s.link, s.highlight)}
+        href="https://github.com/Mr-shuo/Richpedia_Website"
+        target="_blank"
+      >
         Github
       </a>
     </div>

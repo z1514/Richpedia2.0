@@ -1,0 +1,1957 @@
+{
+  "nodes": [
+    {
+      "id": "0",
+      "name": "http://dbpedia.org/resource/Titisee",
+      "symbolSize": 29.02113913377768,
+      "x": -305.271491039175,
+      "y": -568.2185473894942,
+      "value": 0,
+      "category": 2
+    },
+    {
+      "id": "1",
+      "name": "http://dbpedia.org/resource/Oscar_Scherer_State_Park",
+      "symbolSize": 7.041734829575956,
+      "x": 280.2792112416041,
+      "y": -35.95561165883532,
+      "value": 0,
+      "category": 2
+    },
+    {
+      "id": "2",
+      "name": "http://dbpedia.org/resource/Vajreshwari_Temple",
+      "symbolSize": 33.55464155452879,
+      "x": 36.541196284715056,
+      "y": -371.1426464992202,
+      "value": 0,
+      "category": 0
+    },
+    {
+      "id": "3",
+      "name": "http://dbpedia.org/resource/Kidepo_Valley_National_Park",
+      "symbolSize": 33.102001681822024,
+      "x": 141.1937874222499,
+      "y": 61.59764510400487,
+      "value": 0,
+      "category": 1
+    },
+    {
+      "id": "4",
+      "name": "http://dbpedia.org/resource/Xi_River",
+      "symbolSize": 37.05480847764654,
+      "x": 459.0360063571295,
+      "y": 45.44045891077894,
+      "value": 0,
+      "category": 1
+    },
+    {
+      "id": "5",
+      "name": "http://dbpedia.org/resource/Saksaywaman",
+      "symbolSize": 36.93015764962276,
+      "x": -190.3891191020329,
+      "y": 70.28332362112633,
+      "value": 0,
+      "category": 2
+    },
+    {
+      "id": "6",
+      "name": "http://dbpedia.org/resource/Stavanger_Cathedral",
+      "symbolSize": 32.50566960376516,
+      "x": -69.74284939189988,
+      "y": 285.3085176647845,
+      "value": 0,
+      "category": 0
+    },
+    {
+      "id": "7",
+      "name": "http://dbpedia.org/resource/Dyrham_Park",
+      "symbolSize": 13.31028380190695,
+      "x": -380.9382491321651,
+      "y": -558.3623466045779,
+      "value": 0,
+      "category": 0
+    },
+    {
+      "id": "8",
+      "name": "http://dbpedia.org/resource/Mount_Jackson,_Virginia",
+      "symbolSize": 4.548061783540801,
+      "x": 437.22660440170785,
+      "y": 219.38402447535861,
+      "value": 0,
+      "category": 0
+    },
+    {
+      "id": "9",
+      "name": "http://dbpedia.org/resource/Eriskay",
+      "symbolSize": 39.081099189092775,
+      "x": -22.362611345508185,
+      "y": -673.377586275124,
+      "value": 0,
+      "category": 1
+    },
+    {
+      "id": "10",
+      "name": "http://dbpedia.org/resource/The_SSE_Hydro",
+      "symbolSize": 1.6787472639113323,
+      "x": -597.7372580064446,
+      "y": 521.1341951541178,
+      "value": 0,
+      "category": 0
+    },
+    {
+      "id": "11",
+      "name": "http://dbpedia.org/resource/Tux_Alps",
+      "symbolSize": 6.722707599658384,
+      "x": 46.841794821361304,
+      "y": -563.2222831160923,
+      "value": 0,
+      "category": 0
+    },
+    {
+      "id": "12",
+      "name": "http://dbpedia.org/resource/Petrovaradin_Fortress",
+      "symbolSize": 38.99672662880694,
+      "x": -367.18793096724676,
+      "y": -350.4137737293907,
+      "value": 0,
+      "category": 0
+    },
+    {
+      "id": "13",
+      "name": "http://dbpedia.org/resource/Tower_of_the_Winds",
+      "symbolSize": 27.27911063847894,
+      "x": -189.03420351047856,
+      "y": 529.8875976294553,
+      "value": 0,
+      "category": 2
+    },
+    {
+      "id": "14",
+      "name": "http://dbpedia.org/resource/Parc_des_Buttes_Chaumont",
+      "symbolSize": 9.501564139005778,
+      "x": 43.88930775014103,
+      "y": -72.41758166936881,
+      "value": 0,
+      "category": 1
+    },
+    {
+      "id": "15",
+      "name": "http://dbpedia.org/resource/Kadriorg_Palace",
+      "symbolSize": 1.7215162861818476,
+      "x": -615.199078346702,
+      "y": -447.2561965679921,
+      "value": 0,
+      "category": 1
+    },
+    {
+      "id": "16",
+      "name": "http://dbpedia.org/resource/St._Pauli_Piers",
+      "symbolSize": 22.648408160785454,
+      "x": -362.2305272147222,
+      "y": -662.227359148887,
+      "value": 0,
+      "category": 0
+    },
+    {
+      "id": "17",
+      "name": "http://dbpedia.org/resource/Pra\u00e7a_do_Com\u00e9rcio",
+      "category": 1,
+      "symbolSize": 9.18488906646845,
+      "x": -311.1548364977152,
+      "y": -19.22832029713561,
+      "value": 0
+    },
+    {
+      "id": "18",
+      "name": "http://dbpedia.org/resource/Bardon_Hill",
+      "symbolSize": 28.77565912589896,
+      "x": -480.96877474854585,
+      "y": 302.7308219567867,
+      "value": 0,
+      "category": 0
+    },
+    {
+      "id": "19",
+      "name": "http://dbpedia.org/resource/Fatima_Masumeh_Shrine",
+      "symbolSize": 10.30392749980562,
+      "x": 321.69163062331336,
+      "y": -432.6500504356287,
+      "value": 0,
+      "category": 2
+    },
+    {
+      "id": "20",
+      "name": "http://dbpedia.org/resource/Land's_End",
+      "symbolSize": 26.053684540523406,
+      "x": -677.8420761202029,
+      "y": -629.605898520075,
+      "value": 0,
+      "category": 2
+    },
+    {
+      "id": "21",
+      "name": "http://dbpedia.org/resource/National_Institute_of_Dramatic_Art",
+      "symbolSize": 25.209391903800814,
+      "x": -346.6739667806017,
+      "y": -447.59804086195845,
+      "value": 0,
+      "category": 0
+    },
+    {
+      "id": "22",
+      "name": "http://dbpedia.org/resource/Kauffman_Center_for_the_Performing_Arts",
+      "symbolSize": 34.28527391025364,
+      "x": -475.0866668083361,
+      "y": -372.08317551097747,
+      "value": 0,
+      "category": 1
+    },
+    {
+      "id": "23",
+      "name": "http://dbpedia.org/resource/Vauxhall_Gardens",
+      "symbolSize": 7.58415825632768,
+      "x": 588.0718213226389,
+      "y": 620.7872894625978,
+      "value": 0,
+      "category": 0
+    },
+    {
+      "id": "24",
+      "name": "http://dbpedia.org/resource/Iwashimizu_Hachimang\u016b",
+      "symbolSize": 17.886984301121796,
+      "x": 453.0219172422783,
+      "y": -362.7714594251537,
+      "value": 0,
+      "category": 0
+    },
+    {
+      "id": "25",
+      "name": "http://dbpedia.org/resource/Alum_Rock_Park",
+      "symbolSize": 2.7444068630155725,
+      "x": -563.9366112538826,
+      "y": 660.7128141266928,
+      "value": 0,
+      "category": 1
+    },
+    {
+      "id": "26",
+      "name": "http://dbpedia.org/resource/Levanzo",
+      "symbolSize": 25.36385669334125,
+      "x": 382.80575035424204,
+      "y": 423.86629579462965,
+      "value": 0,
+      "category": 0
+    },
+    {
+      "id": "27",
+      "name": "http://dbpedia.org/resource/Galician_Massif",
+      "symbolSize": 22.831336298496904,
+      "x": 629.2905659929536,
+      "y": 252.80600310054342,
+      "value": 0,
+      "category": 0
+    },
+    {
+      "id": "28",
+      "name": "http://dbpedia.org/resource/Rur",
+      "symbolSize": 34.6572013194773,
+      "x": -431.9895644173973,
+      "y": -600.6759457632073,
+      "value": 0,
+      "category": 1
+    },
+    {
+      "id": "29",
+      "name": "http://dbpedia.org/resource/Central_Balkan_National_Park",
+      "symbolSize": 16.824832436300756,
+      "x": -530.2212350683039,
+      "y": 46.38788523038204,
+      "value": 0,
+      "category": 2
+    },
+    {
+      "id": "30",
+      "name": "http://dbpedia.org/resource/Trondheimsfjord",
+      "symbolSize": 8.686970939623228,
+      "x": 348.72446825499173,
+      "y": -118.03998865604296,
+      "value": 0,
+      "category": 0
+    },
+    {
+      "id": "31",
+      "name": "http://dbpedia.org/resource/Fort_Frederica_National_Monument",
+      "symbolSize": 39.16102015220241,
+      "x": 140.3950270379995,
+      "y": 416.8600946024478,
+      "value": 0,
+      "category": 2
+    },
+    {
+      "id": "32",
+      "name": "http://dbpedia.org/resource/Schleswig-Holstein_Wadden_Sea_National_Park",
+      "category": 1,
+      "symbolSize": 15.539884024797725,
+      "x": 90.29286229746924,
+      "y": 166.45656641257915,
+      "value": 0
+    },
+    {
+      "id": "33",
+      "name": "http://dbpedia.org/resource/Blackness_Castle",
+      "symbolSize": 29.49823993101191,
+      "x": 333.1171215332447,
+      "y": -374.7376807214556,
+      "value": 0,
+      "category": 0
+    },
+    {
+      "id": "34",
+      "name": "http://dbpedia.org/resource/Hardwick_Hall",
+      "category": 0,
+      "symbolSize": 36.345984174263286,
+      "x": 441.1648873266529,
+      "y": -307.9848594156641,
+      "value": 0
+    },
+    {
+      "id": "35",
+      "name": "http://dbpedia.org/resource/Palazzo_dei_Diamanti",
+      "symbolSize": 38.263163346161775,
+      "x": -299.1565464918218,
+      "y": 183.41533761748894,
+      "value": 0,
+      "category": 2
+    },
+    {
+      "id": "36",
+      "name": "http://dbpedia.org/resource/Ben_Lawers",
+      "symbolSize": 18.13960414116592,
+      "x": 60.53221133876241,
+      "y": -184.1405909235466,
+      "value": 0,
+      "category": 0
+    },
+    {
+      "id": "37",
+      "name": "http://dbpedia.org/resource/25_de_Abril_Bridge",
+      "symbolSize": 17.929164953095462,
+      "x": -267.8577468266131,
+      "y": 407.0346032548596,
+      "value": 0,
+      "category": 2
+    },
+    {
+      "id": "38",
+      "name": "http://dbpedia.org/resource/Jockey's_Ridge_State_Park",
+      "symbolSize": 18.603418587660816,
+      "x": 552.6158183033369,
+      "y": -515.4871434926636,
+      "value": 0,
+      "category": 1
+    },
+    {
+      "id": "39",
+      "name": "http://dbpedia.org/resource/Cliffs_of_Moher",
+      "symbolSize": 38.90559107008884,
+      "x": -323.02686686572144,
+      "y": 697.5442845827072,
+      "value": 0,
+      "category": 2
+    },
+    {
+      "id": "40",
+      "name": "http://dbpedia.org/resource/Crystal_Palace_Dinosaurs",
+      "symbolSize": 8.061696370020208,
+      "x": -256.72750514048874,
+      "y": 568.7963670231284,
+      "value": 0,
+      "category": 2
+    },
+    {
+      "id": "41",
+      "name": "http://dbpedia.org/resource/Grampians_National_Park",
+      "category": 2,
+      "symbolSize": 27.806596826036195,
+      "x": 407.68999773311157,
+      "y": -218.294475363549,
+      "value": 0
+    },
+    {
+      "id": "42",
+      "name": "http://dbpedia.org/resource/Tiergarten_(park)",
+      "symbolSize": 17.519622438716723,
+      "x": 88.77857372761855,
+      "y": 239.4461235914955,
+      "value": 0,
+      "category": 1
+    },
+    {
+      "id": "43",
+      "name": "http://dbpedia.org/resource/Sarmizegetusa_Regia",
+      "symbolSize": 23.433679474586075,
+      "x": 296.4949316806659,
+      "y": -306.95021073336545,
+      "value": 0,
+      "category": 0
+    },
+    {
+      "id": "44",
+      "name": "http://dbpedia.org/resource/Gare_d'Austerlitz",
+      "symbolSize": 4.038274897670018,
+      "x": -528.9947291461426,
+      "y": 394.8417795060541,
+      "value": 0,
+      "category": 0
+    },
+    {
+      "id": "45",
+      "name": "http://dbpedia.org/resource/Dharawal_National_Park",
+      "symbolSize": 13.294464005887688,
+      "x": -570.9783246899825,
+      "y": -139.05761892249143,
+      "value": 0,
+      "category": 2
+    },
+    {
+      "id": "46",
+      "name": "http://dbpedia.org/resource/Viking_Way",
+      "category": 1,
+      "symbolSize": 31.70795116160705,
+      "x": -100.11819611002761,
+      "y": -143.5559145730175,
+      "value": 0
+    },
+    {
+      "id": "47",
+      "name": "http://dbpedia.org/resource/Rakowicki_Cemetery",
+      "symbolSize": 5.4573157559207095,
+      "x": 581.6099510337356,
+      "y": -448.1423757827562,
+      "value": 0,
+      "category": 2
+    },
+    {
+      "id": "48",
+      "name": "http://dbpedia.org/resource/Skomer",
+      "symbolSize": 11.51696588842856,
+      "x": 464.40189937229934,
+      "y": -15.791792101760393,
+      "value": 0,
+      "category": 1
+    },
+    {
+      "id": "49",
+      "name": "http://dbpedia.org/resource/West_Virginia_State_Capitol",
+      "symbolSize": 4.057905155355982,
+      "x": 269.5901632684181,
+      "y": -222.60358645855376,
+      "value": 0,
+      "category": 2
+    },
+    {
+      "id": "50",
+      "name": "http://dbpedia.org/resource/Ricoh_Coliseum",
+      "symbolSize": 37.158239736938,
+      "x": 489.82770035673684,
+      "y": 144.7618731025217,
+      "value": 0,
+      "category": 1
+    },
+    {
+      "id": "51",
+      "name": "http://dbpedia.org/resource/Royal_Tombs_of_the_Joseon_Dynasty",
+      "symbolSize": 28.05562593277488,
+      "x": -133.6913641790561,
+      "y": 353.66993332551533,
+      "value": 0,
+      "category": 1
+    },
+    {
+      "id": "52",
+      "name": "http://dbpedia.org/resource/Segontium",
+      "symbolSize": 33.286941237101495,
+      "x": -573.8787458933903,
+      "y": 145.21417812968048,
+      "value": 0,
+      "category": 1
+    },
+    {
+      "id": "53",
+      "name": "http://dbpedia.org/resource/Rhuddlan_Castle",
+      "symbolSize": 3.3165932778691967,
+      "x": 104.90396229978444,
+      "y": -670.6068768064794,
+      "value": 0,
+      "category": 1
+    },
+    {
+      "id": "54",
+      "name": "http://dbpedia.org/resource/Port_of_Southampton",
+      "symbolSize": 3.912516798182339,
+      "x": -294.6186096860517,
+      "y": 530.2462878581557,
+      "value": 0,
+      "category": 0
+    },
+    {
+      "id": "55",
+      "name": "http://dbpedia.org/resource/Instituto_Butantan",
+      "symbolSize": 28.494941771591552,
+      "x": 34.819517455169716,
+      "y": 292.62388962890145,
+      "value": 0,
+      "category": 2
+    },
+    {
+      "id": "56",
+      "name": "http://dbpedia.org/resource/Sun_City,_Arizona",
+      "symbolSize": 5.69058818367549,
+      "x": -353.3662000593282,
+      "y": 480.0021490040342,
+      "value": 0,
+      "category": 0
+    },
+    {
+      "id": "57",
+      "name": "http://dbpedia.org/resource/Charles_Bridge",
+      "symbolSize": 22.836911557602214,
+      "x": 332.3633124044002,
+      "y": -264.54038841774013,
+      "value": 0,
+      "category": 0
+    },
+    {
+      "id": "58",
+      "name": "http://dbpedia.org/resource/Old_Delhi",
+      "symbolSize": 12.34788152325822,
+      "x": -474.4307870914158,
+      "y": 454.2579083199644,
+      "value": 0,
+      "category": 1
+    },
+    {
+      "id": "59",
+      "name": "http://dbpedia.org/resource/Ch\u00e2teau_d'Amboise",
+      "symbolSize": 23.211894275164454,
+      "x": -681.4249411520473,
+      "y": 109.79734608362037,
+      "value": 0,
+      "category": 2
+    },
+    {
+      "id": "60",
+      "name": "http://dbpedia.org/resource/Bitexco_Financial_Tower",
+      "symbolSize": 9.214579918122142,
+      "x": -510.44243819097596,
+      "y": -273.8385962799334,
+      "value": 0,
+      "category": 2
+    },
+    {
+      "id": "61",
+      "name": "http://dbpedia.org/ontology/ArchitecturalStructure",
+      "category": 2,
+      "symbolSize": 19.708446937622686,
+      "x": -164.09362572612645,
+      "y": 195.1979685110657,
+      "value": 0
+    },
+    {
+      "id": "62",
+      "name": "http://dbpedia.org/resource/National_Museum_of_Anthropology_(Mexico)",
+      "symbolSize": 24.282213968458166,
+      "x": 392.7391936093984,
+      "y": 549.1418833489442,
+      "value": 0,
+      "category": 1
+    },
+    {
+      "id": "63",
+      "name": "http://dbpedia.org/resource/Midland_Railway_\u2013_Butterley",
+      "symbolSize": 33.29040621277106,
+      "x": 429.8827976756738,
+      "y": 685.9570565743675,
+      "value": 0,
+      "category": 2
+    },
+    {
+      "id": "64",
+      "name": "http://dbpedia.org/resource/Forest_of_Dean_District",
+      "symbolSize": 37.671574208469565,
+      "x": -671.9113115593293,
+      "y": 1.9015249675728683,
+      "value": 0,
+      "category": 0
+    },
+    {
+      "id": "65",
+      "name": "http://dbpedia.org/resource/Lotus_Temple",
+      "symbolSize": 4.572764154788706,
+      "x": 95.73178551785327,
+      "y": 35.713100400515486,
+      "value": 0,
+      "category": 1
+    },
+    {
+      "id": "66",
+      "name": "http://dbpedia.org/resource/Memorial_to_the_Murdered_Jews_of_Europe",
+      "symbolSize": 31.043820591790883,
+      "x": 694.07349279336,
+      "y": -498.4497780860655,
+      "value": 0,
+      "category": 2
+    },
+    {
+      "id": "67",
+      "name": "http://dbpedia.org/resource/Vadstena_Abbey",
+      "symbolSize": 33.639907241934274,
+      "x": -38.78020938602947,
+      "y": -499.0937625033349,
+      "value": 0,
+      "category": 0
+    },
+    {
+      "id": "68",
+      "name": "http://dbpedia.org/resource/Jos\u00e9_Miguel_Agrelot_Coliseum",
+      "symbolSize": 20.044456511040856,
+      "x": -382.6155549781505,
+      "y": 676.4243932325651,
+      "value": 0,
+      "category": 0
+    },
+    {
+      "id": "69",
+      "name": "http://dbpedia.org/resource/Fort_Necessity_National_Battlefield",
+      "symbolSize": 10.388536475210614,
+      "x": 126.55826946608465,
+      "y": -80.30169231779121,
+      "value": 0,
+      "category": 1
+    },
+    {
+      "id": "70",
+      "name": "http://dbpedia.org/resource/Time_Warner_Center",
+      "symbolSize": 15.460404153262482,
+      "x": 28.116114588383084,
+      "y": -633.7825094923165,
+      "value": 0,
+      "category": 2
+    },
+    {
+      "id": "71",
+      "name": "http://dbpedia.org/resource/Haleakal\u0101_National_Park",
+      "symbolSize": 33.73658666246705,
+      "x": 497.46325782398117,
+      "y": 343.89156166293014,
+      "value": 0,
+      "category": 2
+    },
+    {
+      "id": "72",
+      "name": "http://dbpedia.org/resource/Cotopaxi",
+      "symbolSize": 21.49987713463931,
+      "x": -133.17377866716674,
+      "y": -643.647552002514,
+      "value": 0,
+      "category": 1
+    },
+    {
+      "id": "73",
+      "name": "http://dbpedia.org/resource/Aconcagua",
+      "symbolSize": 16.529100412052415,
+      "x": -338.5219210484614,
+      "y": 114.98266561529579,
+      "value": 0,
+      "category": 2
+    },
+    {
+      "id": "74",
+      "name": "http://dbpedia.org/class/yago/Tract108673395",
+      "category": 0,
+      "symbolSize": 36.34696742733716,
+      "x": 534.977263104616,
+      "y": -426.12775888016733,
+      "value": 0
+    },
+    {
+      "id": "75",
+      "name": "http://dbpedia.org/resource/Brean_Down",
+      "symbolSize": 39.37008670648714,
+      "x": 186.92245755733825,
+      "y": -315.23711190356437,
+      "value": 0,
+      "category": 1
+    },
+    {
+      "id": "76",
+      "name": "http://dbpedia.org/resource/Bishop_Museum",
+      "symbolSize": 11.543552312065547,
+      "x": 56.189647666241285,
+      "y": -136.87076479075722,
+      "value": 0,
+      "category": 2
+    },
+    {
+      "id": "77",
+      "name": "http://dbpedia.org/resource/Pindus",
+      "symbolSize": 23.32201084644041,
+      "x": 42.66216487777342,
+      "y": -304.32136378773816,
+      "value": 0,
+      "category": 2
+    },
+    {
+      "id": "78",
+      "name": "http://dbpedia.org/resource/Aqueduct_of_Segovia",
+      "symbolSize": 13.536999267933954,
+      "x": -127.32582305196604,
+      "y": -267.37943107348804,
+      "value": 0,
+      "category": 1
+    },
+    {
+      "id": "79",
+      "name": "http://dbpedia.org/resource/FirstEnergy_Stadium",
+      "symbolSize": 21.599749894658178,
+      "x": -415.1675366829033,
+      "y": 514.9856477884177,
+      "value": 0,
+      "category": 1
+    },
+    {
+      "id": "80",
+      "name": "http://dbpedia.org/resource/Sanctuary_of_F\u00e1tima",
+      "symbolSize": 5.328570311893524,
+      "x": -687.4014217104948,
+      "y": -151.57106167661982,
+      "value": 0,
+      "category": 2
+    },
+    {
+      "id": "81",
+      "name": "http://dbpedia.org/resource/Pingyao_County",
+      "symbolSize": 37.97646571152282,
+      "x": -76.8663595295966,
+      "y": 648.0733568984538,
+      "value": 0,
+      "category": 2
+    },
+    {
+      "id": "82",
+      "name": "http://dbpedia.org/class/yago/GeographicalArea108574314",
+      "category": 1,
+      "symbolSize": 2.3168971015891486,
+      "x": -3.7170097765180117,
+      "y": -519.3786973643283,
+      "value": 0
+    },
+    {
+      "id": "83",
+      "name": "http://dbpedia.org/resource/Kaliakra",
+      "symbolSize": 20.493701585397822,
+      "x": 562.985698347612,
+      "y": -375.2600112890105,
+      "value": 0,
+      "category": 2
+    },
+    {
+      "id": "84",
+      "name": "http://dbpedia.org/resource/An\u0131tkabir",
+      "symbolSize": 37.0985979042885,
+      "x": 209.71763322741413,
+      "y": -152.1565492879921,
+      "value": 0,
+      "category": 0
+    },
+    {
+      "id": "85",
+      "name": "http://dbpedia.org/resource/Valens_Aqueduct",
+      "symbolSize": 31.30158966660399,
+      "x": 86.7186226662476,
+      "y": 660.2534531933229,
+      "value": 0,
+      "category": 2
+    },
+    {
+      "id": "86",
+      "name": "http://dbpedia.org/resource/Hula_Valley",
+      "symbolSize": 30.71344405997072,
+      "x": 32.129166365505284,
+      "y": 131.1183494648127,
+      "value": 0,
+      "category": 2
+    },
+    {
+      "id": "87",
+      "name": "http://dbpedia.org/resource/Mljet",
+      "symbolSize": 6.330798793447163,
+      "x": -192.3329277223175,
+      "y": 601.0889724617846,
+      "value": 0,
+      "category": 2
+    },
+    {
+      "id": "88",
+      "name": "http://dbpedia.org/resource/Borra_Caves",
+      "symbolSize": 36.955537835425176,
+      "x": 291.6865792697914,
+      "y": 111.33927776850066,
+      "value": 0,
+      "category": 0
+    },
+    {
+      "id": "89",
+      "name": "http://dbpedia.org/resource/Mbombela_Stadium",
+      "symbolSize": 9.007070321914016,
+      "x": -598.0242531610805,
+      "y": -64.35098496504429,
+      "value": 0,
+      "category": 0
+    },
+    {
+      "id": "90",
+      "name": "http://dbpedia.org/resource/Khotyn_Fortress",
+      "symbolSize": 36.64607592896135,
+      "x": -259.1103436975821,
+      "y": -472.7395347012189,
+      "value": 0,
+      "category": 2
+    },
+    {
+      "id": "91",
+      "name": "http://dbpedia.org/resource/Convent_of_the_Capuchos_(Sintra)",
+      "symbolSize": 38.980301198487965,
+      "x": -234.5055585023718,
+      "y": -75.62287800493993,
+      "value": 0,
+      "category": 1
+    },
+    {
+      "id": "92",
+      "name": "http://dbpedia.org/resource/Brodick_Castle",
+      "symbolSize": 38.76749732727638,
+      "x": -213.20247226723325,
+      "y": 379.2814064910269,
+      "value": 0,
+      "category": 1
+    },
+    {
+      "id": "93",
+      "name": "http://dbpedia.org/resource/Lions_Gate_Bridge",
+      "symbolSize": 4.517824494950289,
+      "x": 148.07216082354103,
+      "y": 254.28713751077828,
+      "value": 0,
+      "category": 0
+    },
+    {
+      "id": "94",
+      "name": "http://dbpedia.org/resource/White_Hart_Lane",
+      "symbolSize": 23.49677015382753,
+      "x": 319.9008719682879,
+      "y": 22.059607202092252,
+      "value": 0,
+      "category": 2
+    },
+    {
+      "id": "95",
+      "name": "http://dbpedia.org/resource/Fort_Ricasoli",
+      "symbolSize": 3.805776717980299,
+      "x": 577.749923050392,
+      "y": -275.91558579324345,
+      "value": 0,
+      "category": 0
+    },
+    {
+      "id": "96",
+      "name": "http://dbpedia.org/resource/Rohtas_Fort",
+      "symbolSize": 35.50227744893443,
+      "x": 333.1205865846687,
+      "y": 264.016395135351,
+      "value": 0,
+      "category": 0
+    },
+    {
+      "id": "97",
+      "name": "http://dbpedia.org/resource/First_Canadian_Place",
+      "symbolSize": 27.47444028761403,
+      "x": 356.5513668070889,
+      "y": -647.0952094751966,
+      "value": 0,
+      "category": 2
+    },
+    {
+      "id": "98",
+      "name": "http://dbpedia.org/resource/HMCS_Haida",
+      "symbolSize": 26.830618397729786,
+      "x": -588.4598611654081,
+      "y": -24.163962990726986,
+      "value": 0,
+      "category": 1
+    },
+    {
+      "id": "99",
+      "name": "http://dbpedia.org/resource/Oxford_Castle",
+      "symbolSize": 2.2182033793451685,
+      "x": 38.93382180151082,
+      "y": 652.8089396148366,
+      "value": 0,
+      "category": 2
+    }
+  ],
+  "links": [
+    {
+      "source": "56",
+      "target": "82",
+      "label": {
+        "show": "true",
+        "formatter": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+      }
+    },
+    {
+      "source": "56",
+      "target": "74",
+      "label": {
+        "show": "true",
+        "formatter": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+      }
+    },
+    {
+      "source": "97",
+      "target": "61",
+      "label": {
+        "show": "true",
+        "formatter": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+      }
+    },
+    {
+      "source": "79",
+      "target": "61",
+      "label": {
+        "show": "true",
+        "formatter": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+      }
+    },
+    {
+      "source": "91",
+      "target": "61",
+      "label": {
+        "show": "true",
+        "formatter": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+      }
+    },
+    {
+      "source": "71",
+      "target": "82",
+      "label": {
+        "show": "true",
+        "formatter": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+      }
+    },
+    {
+      "source": "71",
+      "target": "74",
+      "label": {
+        "show": "true",
+        "formatter": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+      }
+    },
+    {
+      "source": "71",
+      "target": "71",
+      "label": {
+        "show": "true",
+        "formatter": "http://www.w3.org/2002/07/owl#sameAs"
+      }
+    },
+    {
+      "source": "45",
+      "target": "82",
+      "label": {
+        "show": "true",
+        "formatter": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+      }
+    },
+    {
+      "source": "45",
+      "target": "74",
+      "label": {
+        "show": "true",
+        "formatter": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+      }
+    },
+    {
+      "source": "93",
+      "target": "61",
+      "label": {
+        "show": "true",
+        "formatter": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+      }
+    },
+    {
+      "source": "93",
+      "target": "82",
+      "label": {
+        "show": "true",
+        "formatter": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+      }
+    },
+    {
+      "source": "93",
+      "target": "74",
+      "label": {
+        "show": "true",
+        "formatter": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+      }
+    },
+    {
+      "source": "6",
+      "target": "61",
+      "label": {
+        "show": "true",
+        "formatter": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+      }
+    },
+    {
+      "source": "52",
+      "target": "82",
+      "label": {
+        "show": "true",
+        "formatter": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+      }
+    },
+    {
+      "source": "52",
+      "target": "74",
+      "label": {
+        "show": "true",
+        "formatter": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+      }
+    },
+    {
+      "source": "48",
+      "target": "82",
+      "label": {
+        "show": "true",
+        "formatter": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+      }
+    },
+    {
+      "source": "48",
+      "target": "74",
+      "label": {
+        "show": "true",
+        "formatter": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+      }
+    },
+    {
+      "source": "8",
+      "target": "82",
+      "label": {
+        "show": "true",
+        "formatter": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+      }
+    },
+    {
+      "source": "90",
+      "target": "61",
+      "label": {
+        "show": "true",
+        "formatter": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+      }
+    },
+    {
+      "source": "90",
+      "target": "82",
+      "label": {
+        "show": "true",
+        "formatter": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+      }
+    },
+    {
+      "source": "90",
+      "target": "74",
+      "label": {
+        "show": "true",
+        "formatter": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+      }
+    },
+    {
+      "source": "95",
+      "target": "61",
+      "label": {
+        "show": "true",
+        "formatter": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+      }
+    },
+    {
+      "source": "31",
+      "target": "82",
+      "label": {
+        "show": "true",
+        "formatter": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+      }
+    },
+    {
+      "source": "31",
+      "target": "74",
+      "label": {
+        "show": "true",
+        "formatter": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+      }
+    },
+    {
+      "source": "47",
+      "target": "82",
+      "label": {
+        "show": "true",
+        "formatter": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+      }
+    },
+    {
+      "source": "47",
+      "target": "74",
+      "label": {
+        "show": "true",
+        "formatter": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+      }
+    },
+    {
+      "source": "38",
+      "target": "82",
+      "label": {
+        "show": "true",
+        "formatter": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+      }
+    },
+    {
+      "source": "38",
+      "target": "74",
+      "label": {
+        "show": "true",
+        "formatter": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+      }
+    },
+    {
+      "source": "33",
+      "target": "61",
+      "label": {
+        "show": "true",
+        "formatter": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+      }
+    },
+    {
+      "source": "96",
+      "target": "82",
+      "label": {
+        "show": "true",
+        "formatter": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+      }
+    },
+    {
+      "source": "96",
+      "target": "74",
+      "label": {
+        "show": "true",
+        "formatter": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+      }
+    },
+    {
+      "source": "53",
+      "target": "61",
+      "label": {
+        "show": "true",
+        "formatter": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+      }
+    },
+    {
+      "source": "83",
+      "target": "82",
+      "label": {
+        "show": "true",
+        "formatter": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+      }
+    },
+    {
+      "source": "83",
+      "target": "74",
+      "label": {
+        "show": "true",
+        "formatter": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+      }
+    },
+    {
+      "source": "20",
+      "target": "82",
+      "label": {
+        "show": "true",
+        "formatter": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+      }
+    },
+    {
+      "source": "20",
+      "target": "74",
+      "label": {
+        "show": "true",
+        "formatter": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+      }
+    },
+    {
+      "source": "3",
+      "target": "82",
+      "label": {
+        "show": "true",
+        "formatter": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+      }
+    },
+    {
+      "source": "3",
+      "target": "74",
+      "label": {
+        "show": "true",
+        "formatter": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+      }
+    },
+    {
+      "source": "94",
+      "target": "61",
+      "label": {
+        "show": "true",
+        "formatter": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+      }
+    },
+    {
+      "source": "89",
+      "target": "61",
+      "label": {
+        "show": "true",
+        "formatter": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+      }
+    },
+    {
+      "source": "29",
+      "target": "82",
+      "label": {
+        "show": "true",
+        "formatter": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+      }
+    },
+    {
+      "source": "29",
+      "target": "74",
+      "label": {
+        "show": "true",
+        "formatter": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+      }
+    },
+    {
+      "source": "77",
+      "target": "82",
+      "label": {
+        "show": "true",
+        "formatter": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+      }
+    },
+    {
+      "source": "77",
+      "target": "74",
+      "label": {
+        "show": "true",
+        "formatter": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+      }
+    },
+    {
+      "source": "35",
+      "target": "61",
+      "label": {
+        "show": "true",
+        "formatter": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+      }
+    },
+    {
+      "source": "57",
+      "target": "61",
+      "label": {
+        "show": "true",
+        "formatter": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+      }
+    },
+    {
+      "source": "57",
+      "target": "82",
+      "label": {
+        "show": "true",
+        "formatter": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+      }
+    },
+    {
+      "source": "57",
+      "target": "74",
+      "label": {
+        "show": "true",
+        "formatter": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+      }
+    },
+    {
+      "source": "87",
+      "target": "82",
+      "label": {
+        "show": "true",
+        "formatter": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+      }
+    },
+    {
+      "source": "87",
+      "target": "74",
+      "label": {
+        "show": "true",
+        "formatter": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+      }
+    },
+    {
+      "source": "19",
+      "target": "61",
+      "label": {
+        "show": "true",
+        "formatter": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+      }
+    },
+    {
+      "source": "78",
+      "target": "82",
+      "label": {
+        "show": "true",
+        "formatter": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+      }
+    },
+    {
+      "source": "78",
+      "target": "74",
+      "label": {
+        "show": "true",
+        "formatter": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+      }
+    },
+    {
+      "source": "12",
+      "target": "61",
+      "label": {
+        "show": "true",
+        "formatter": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+      }
+    },
+    {
+      "source": "99",
+      "target": "61",
+      "label": {
+        "show": "true",
+        "formatter": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+      }
+    },
+    {
+      "source": "80",
+      "target": "61",
+      "label": {
+        "show": "true",
+        "formatter": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+      }
+    },
+    {
+      "source": "80",
+      "target": "80",
+      "label": {
+        "show": "true",
+        "formatter": "http://www.w3.org/2002/07/owl#sameAs"
+      }
+    },
+    {
+      "source": "68",
+      "target": "61",
+      "label": {
+        "show": "true",
+        "formatter": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+      }
+    },
+    {
+      "source": "68",
+      "target": "68",
+      "label": {
+        "show": "true",
+        "formatter": "http://www.w3.org/2002/07/owl#sameAs"
+      }
+    },
+    {
+      "source": "49",
+      "target": "61",
+      "label": {
+        "show": "true",
+        "formatter": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+      }
+    },
+    {
+      "source": "69",
+      "target": "82",
+      "label": {
+        "show": "true",
+        "formatter": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+      }
+    },
+    {
+      "source": "69",
+      "target": "74",
+      "label": {
+        "show": "true",
+        "formatter": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+      }
+    },
+    {
+      "source": "58",
+      "target": "82",
+      "label": {
+        "show": "true",
+        "formatter": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+      }
+    },
+    {
+      "source": "75",
+      "target": "82",
+      "label": {
+        "show": "true",
+        "formatter": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+      }
+    },
+    {
+      "source": "75",
+      "target": "74",
+      "label": {
+        "show": "true",
+        "formatter": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+      }
+    },
+    {
+      "source": "13",
+      "target": "82",
+      "label": {
+        "show": "true",
+        "formatter": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+      }
+    },
+    {
+      "source": "13",
+      "target": "74",
+      "label": {
+        "show": "true",
+        "formatter": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+      }
+    },
+    {
+      "source": "59",
+      "target": "82",
+      "label": {
+        "show": "true",
+        "formatter": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+      }
+    },
+    {
+      "source": "59",
+      "target": "74",
+      "label": {
+        "show": "true",
+        "formatter": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+      }
+    },
+    {
+      "source": "59",
+      "target": "59",
+      "label": {
+        "show": "true",
+        "formatter": "http://www.w3.org/2002/07/owl#sameAs"
+      }
+    },
+    {
+      "source": "16",
+      "target": "61",
+      "label": {
+        "show": "true",
+        "formatter": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+      }
+    },
+    {
+      "source": "25",
+      "target": "82",
+      "label": {
+        "show": "true",
+        "formatter": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+      }
+    },
+    {
+      "source": "25",
+      "target": "74",
+      "label": {
+        "show": "true",
+        "formatter": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+      }
+    },
+    {
+      "source": "18",
+      "target": "82",
+      "label": {
+        "show": "true",
+        "formatter": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+      }
+    },
+    {
+      "source": "18",
+      "target": "74",
+      "label": {
+        "show": "true",
+        "formatter": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+      }
+    },
+    {
+      "source": "51",
+      "target": "82",
+      "label": {
+        "show": "true",
+        "formatter": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+      }
+    },
+    {
+      "source": "51",
+      "target": "74",
+      "label": {
+        "show": "true",
+        "formatter": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+      }
+    },
+    {
+      "source": "26",
+      "target": "82",
+      "label": {
+        "show": "true",
+        "formatter": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+      }
+    },
+    {
+      "source": "26",
+      "target": "74",
+      "label": {
+        "show": "true",
+        "formatter": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+      }
+    },
+    {
+      "source": "81",
+      "target": "82",
+      "label": {
+        "show": "true",
+        "formatter": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+      }
+    },
+    {
+      "source": "81",
+      "target": "74",
+      "label": {
+        "show": "true",
+        "formatter": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+      }
+    },
+    {
+      "source": "41",
+      "target": "82",
+      "label": {
+        "show": "true",
+        "formatter": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+      }
+    },
+    {
+      "source": "41",
+      "target": "74",
+      "label": {
+        "show": "true",
+        "formatter": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+      }
+    },
+    {
+      "source": "62",
+      "target": "61",
+      "label": {
+        "show": "true",
+        "formatter": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+      }
+    },
+    {
+      "source": "7",
+      "target": "82",
+      "label": {
+        "show": "true",
+        "formatter": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+      }
+    },
+    {
+      "source": "7",
+      "target": "74",
+      "label": {
+        "show": "true",
+        "formatter": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+      }
+    },
+    {
+      "source": "14",
+      "target": "82",
+      "label": {
+        "show": "true",
+        "formatter": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+      }
+    },
+    {
+      "source": "14",
+      "target": "74",
+      "label": {
+        "show": "true",
+        "formatter": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+      }
+    },
+    {
+      "source": "50",
+      "target": "61",
+      "label": {
+        "show": "true",
+        "formatter": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+      }
+    },
+    {
+      "source": "36",
+      "target": "82",
+      "label": {
+        "show": "true",
+        "formatter": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+      }
+    },
+    {
+      "source": "36",
+      "target": "74",
+      "label": {
+        "show": "true",
+        "formatter": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+      }
+    },
+    {
+      "source": "10",
+      "target": "61",
+      "label": {
+        "show": "true",
+        "formatter": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+      }
+    },
+    {
+      "source": "84",
+      "target": "82",
+      "label": {
+        "show": "true",
+        "formatter": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+      }
+    },
+    {
+      "source": "84",
+      "target": "74",
+      "label": {
+        "show": "true",
+        "formatter": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+      }
+    },
+    {
+      "source": "84",
+      "target": "84",
+      "label": {
+        "show": "true",
+        "formatter": "http://www.w3.org/2002/07/owl#sameAs"
+      }
+    },
+    {
+      "source": "22",
+      "target": "61",
+      "label": {
+        "show": "true",
+        "formatter": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+      }
+    },
+    {
+      "source": "60",
+      "target": "61",
+      "label": {
+        "show": "true",
+        "formatter": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+      }
+    },
+    {
+      "source": "63",
+      "target": "63",
+      "label": {
+        "show": "true",
+        "formatter": "http://www.w3.org/2002/07/owl#sameAs"
+      }
+    },
+    {
+      "source": "42",
+      "target": "82",
+      "label": {
+        "show": "true",
+        "formatter": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+      }
+    },
+    {
+      "source": "42",
+      "target": "74",
+      "label": {
+        "show": "true",
+        "formatter": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+      }
+    },
+    {
+      "source": "42",
+      "target": "66",
+      "label": {
+        "show": "true",
+        "formatter": "http://dbpedia.org/ontology/wikiPageWikiLink"
+      }
+    },
+    {
+      "source": "32",
+      "target": "82",
+      "label": {
+        "show": "true",
+        "formatter": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+      }
+    },
+    {
+      "source": "32",
+      "target": "74",
+      "label": {
+        "show": "true",
+        "formatter": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+      }
+    },
+    {
+      "source": "24",
+      "target": "61",
+      "label": {
+        "show": "true",
+        "formatter": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+      }
+    },
+    {
+      "source": "24",
+      "target": "24",
+      "label": {
+        "show": "true",
+        "formatter": "http://www.w3.org/2002/07/owl#sameAs"
+      }
+    },
+    {
+      "source": "1",
+      "target": "82",
+      "label": {
+        "show": "true",
+        "formatter": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+      }
+    },
+    {
+      "source": "1",
+      "target": "74",
+      "label": {
+        "show": "true",
+        "formatter": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+      }
+    },
+    {
+      "source": "37",
+      "target": "61",
+      "label": {
+        "show": "true",
+        "formatter": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+      }
+    },
+    {
+      "source": "54",
+      "target": "20",
+      "label": {
+        "show": "true",
+        "formatter": "http://dbpedia.org/ontology/wikiPageWikiLink"
+      }
+    },
+    {
+      "source": "44",
+      "target": "61",
+      "label": {
+        "show": "true",
+        "formatter": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+      }
+    },
+    {
+      "source": "43",
+      "target": "82",
+      "label": {
+        "show": "true",
+        "formatter": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+      }
+    },
+    {
+      "source": "43",
+      "target": "74",
+      "label": {
+        "show": "true",
+        "formatter": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+      }
+    },
+    {
+      "source": "15",
+      "target": "61",
+      "label": {
+        "show": "true",
+        "formatter": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+      }
+    },
+    {
+      "source": "76",
+      "target": "61",
+      "label": {
+        "show": "true",
+        "formatter": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+      }
+    },
+    {
+      "source": "5",
+      "target": "82",
+      "label": {
+        "show": "true",
+        "formatter": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+      }
+    },
+    {
+      "source": "5",
+      "target": "74",
+      "label": {
+        "show": "true",
+        "formatter": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+      }
+    },
+    {
+      "source": "70",
+      "target": "61",
+      "label": {
+        "show": "true",
+        "formatter": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+      }
+    },
+    {
+      "source": "92",
+      "target": "61",
+      "label": {
+        "show": "true",
+        "formatter": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+      }
+    },
+    {
+      "source": "98",
+      "target": "30",
+      "label": {
+        "show": "true",
+        "formatter": "http://dbpedia.org/ontology/wikiPageWikiLink"
+      }
+    },
+    {
+      "source": "98",
+      "target": "20",
+      "label": {
+        "show": "true",
+        "formatter": "http://dbpedia.org/ontology/wikiPageWikiLink"
+      }
+    },
+    {
+      "source": "65",
+      "target": "61",
+      "label": {
+        "show": "true",
+        "formatter": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+      }
+    },
+    {
+      "source": "85",
+      "target": "61",
+      "label": {
+        "show": "true",
+        "formatter": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+      }
+    },
+    {
+      "source": "86",
+      "target": "82",
+      "label": {
+        "show": "true",
+        "formatter": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+      }
+    },
+    {
+      "source": "86",
+      "target": "74",
+      "label": {
+        "show": "true",
+        "formatter": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+      }
+    },
+    {
+      "source": "23",
+      "target": "82",
+      "label": {
+        "show": "true",
+        "formatter": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+      }
+    },
+    {
+      "source": "23",
+      "target": "74",
+      "label": {
+        "show": "true",
+        "formatter": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+      }
+    },
+    {
+      "source": "17",
+      "target": "82",
+      "label": {
+        "show": "true",
+        "formatter": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+      }
+    },
+    {
+      "source": "17",
+      "target": "74",
+      "label": {
+        "show": "true",
+        "formatter": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+      }
+    },
+    {
+      "source": "17",
+      "target": "17",
+      "label": {
+        "show": "true",
+        "formatter": "http://www.w3.org/2002/07/owl#sameAs"
+      }
+    }
+  ],
+  "categories": [
+    {
+      "name": "c1"
+    },
+    {
+      "name": "c2"
+    },
+    {
+      "name": "c3"
+    }
+  ]
+}

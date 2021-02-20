@@ -27,6 +27,7 @@
     "classnames": "^2.2.6",
     "cookie-parser": "^1.4.3",
     "cors": "^2.8.5",
+    "echarts": "^5.0.1",
     "element-react": "^1.4.34",
     "element-theme-default": "^1.4.13",
     "express": "^4.17.1",

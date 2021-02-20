@@ -500,30 +500,17 @@ class Sparql extends React.Component {
   };
 
   getContent = () => {
-    const { current } = this.state;
-    if (current === 'Sparql') {
-      return (
-        <div>
-          <div>{this.getNavigator()}</div>
-          <div className={s.root}>
-            <h1 className={s.title}>SPARQL</h1>
-            {this.getInfo()}
-            {this.getTextField()}
-            {this.getButton()}
-            {this.getAlert()}
-            {this.getWait()}
-            {this.getResult()}
-            {this.getMore()}
-          </div>
-        </div>
-      );
-    }
     return (
       <div>
-        <div>{this.getNavigator()}</div>
         <div className={s.root}>
-          <h1 className={s.title}>Multi-Modal Entity Linking</h1>
-          {this.getUploader()}
+          <h1 className={s.title}>SPARQL</h1>
+          {this.getInfo()}
+          {this.getTextField()}
+          {this.getButton()}
+          {this.getAlert()}
+          {this.getWait()}
+          {this.getResult()}
+          {this.getMore()}
         </div>
       </div>
     );

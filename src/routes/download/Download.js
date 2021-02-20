@@ -1,10 +1,9 @@
 import React from 'react';
 import withStyles from 'isomorphic-style-loader/withStyles';
+import Card from '@material-ui/core/Card';
 import s from './Download.less';
 import Spinner from '../../components/Spinner/Spinner';
 import HeaderMenu from '../../components/HeaderMenu/HeaderMenu';
-
-
 
 class Download extends React.Component {
   constructor() {
@@ -21,11 +20,12 @@ class Download extends React.Component {
   }
 
   getInfo = () => (
-      <div className={s.paraText}>
+    <div className={s.paraText}>
       <p>
-        You can download images of city&sight, images of people and triples of relationship from here
-        through BaiduYun. Because the image entity folder is relatively
-        large, we split it into serveral parts. The extraction code is 0000.
+        You can download images of city&sight, images of people and triples of
+        relationship from here through BaiduYun. Because the image entity folder
+        is relatively large, we split it into serveral parts. The extraction
+        code is 0000.
       </p>
       <div>
         <ul>
